@@ -90,3 +90,10 @@ protected M gmail;
 ```
 driver.findElement(By.xpath()).getText()
 ```
+
+
+## Building a JSON Data Provider
+
+### The @DataProvider annotation
+
+### The @Test annotation
